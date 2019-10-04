@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="musicmenu">
+
+        <item >노래1</item>
+
+        <item >노래2</item>
+
+        <item >노래3</item>
+
+        <item >노래4</item>
+    </string-array>
+
+    <string-array name="levelmenu">
+        <item >없음</item>
+
+        <item >흔들기</item>
+
+        <item >음성인식</item>
+
+        <item >문제풀기</item>
+    </string-array>
+
+    <string-array name="levelmenu_default">
+
+        <item >흔들기</item>
+
+        <item >음성인식</item>
+
+        <item >문제풀기</item>
+    </string-array>
+
+    <string-array name="solve_level">
+
+        <item >0단계(구구단)</item>
+
+        <item >1단계(큰 수 덧셈)</item>
+
+        <item >2단계(큰 수 곱셈)</item>
+    </string-array>
+
+    <string-array name="vibe_sel">
+
+        <item >천천히 울림</item>
+
+        <item >보통 울림</item>
+
+        <item >자주 울림</item>
+    </string-array>
+
+    <string-array name="vibe_sel_val">
+
+        <item >0</item>
+
+        <item >1</item>
+
+        <item >2</item>
+    </string-array>
+
+    <string-array name="volume_sel">
+
+        <item >작게</item>
+
+        <item >중간</item>
+
+        <item >크게</item>
+    </string-array>
+
+    <string-array name="volume_sel_val">
+
+        <item >0</item>
+
+        <item >1</item>
+
+        <item >2</item>
+    </string-array>
+
+</resources>
